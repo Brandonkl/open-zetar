@@ -1,5 +1,5 @@
 # Welcome to open-ζr!
-open-ζr is an open-source code for simulating Beris-Edwards nematohydrodynamics to study active liquid crystals. It is developed by Brandon Klein and Daniel A. Beller at the Johns Hopkins University Department of Physics and Astronomy. It is an active counterpart to open-Qmin.
+open-ζr is a CPU-parallelized, open-source code for simulating and visualizing passive and active nematic liquid crystals in two and three dimensions. It is developed by Brandon Klein and Daniel A. Beller at the Johns Hopkins University Department of Physics and Astronomy. It is an active counterpart to open-Qmin.
 
 open-ζr is a *graph*-based code that is extendable to any number of spatial dimensions and can be easily modified to couple different fields and equations of motion. It relies on general tensor fields over space.
 
