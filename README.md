@@ -15,5 +15,5 @@ Currently, open-ζr supports active and passive two and three dimensional nemati
 - By default, the visualizer is automatically called after the simulation. Toggle on/of with -plot 1/0 flag.
 - Install requirements.txt.
 - Call python source files as:
-```BE_NS_[2/3]D.py param_file -plot 1/0```
+```BE_NS_[2/3]D.py param_file -plot [1/0]```
     
