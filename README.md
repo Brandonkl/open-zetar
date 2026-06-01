@@ -10,7 +10,7 @@ Currently, open-ζr supports active and passive two and three dimensional nemati
 
 ## Usage
 - Jupyter Notebook and Python source files are provided for simulation code. 
-- By default, the visualizer is automatically called after the simulation. Toggle on/of with -no_plot flag.
+- By default, the visualizer is automatically called after the simulation. Toggle on/of with ```-no_plot``` flag.
 - Install requirements.txt manually or through ```pip install requirements.txt```
 - Call python source files as:
 ```BE_NS_[2/3]D.py -param_file [File] [ /-no_plot]```
